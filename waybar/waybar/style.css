@@ -42,6 +42,17 @@ window#waybar {
   margin-right: 15px;
 }
 
+#window{
+  border-radius: 10px;
+  background-color: #11111b;
+  color: #cdd6f4;
+  margin-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 15px;
+}
+
+
 #backlight, #bluetooth {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;

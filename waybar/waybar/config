@@ -1,8 +1,8 @@
 {
   "layer": "top",
     "modules-left": ["custom/arch", "wlr/workspaces"],
-    "modules-center": ["clock"],
-    "modules-right": ["backlight", "pulseaudio", "bluetooth", "network", "battery"],
+    "modules-center": ["hyprland/window"],
+    "modules-right": ["backlight", "pulseaudio", "bluetooth", "network", "battery" , "clock"],
     "custom/arch": {
       "format": "  ",
       "tooltip": false,
@@ -19,7 +19,10 @@
       }
     },
     "clock": {
-      "format": "<span color='#b4befe'> </span>{:%H:%M}",
+      "format": "<span color='#b4befe'> </span>{:%H:%M} | {:%d-%m}",
+    },
+    "hyprland/window": {
+      "format": "{}",
     },
     "backlight": {
       "device": "intel_backlight",
