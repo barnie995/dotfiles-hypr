@@ -10,7 +10,6 @@
     },
     "wlr/workspaces": {
       "format": "{name}",
-      "format": "{icon}",
       "tooltip": false,
       "all-outputs": true,
       "format-icons": {
@@ -19,7 +18,7 @@
       }
     },
     "clock": {
-      "format": "<span color='#b4befe'> </span>{:%H:%M} | {:%d-%m}",
+      "format": "<span color='#b4befe'> </span>{:%H:%M} - {:%d-%m}",
     },
     "hyprland/window": {
       "format": "{}",
