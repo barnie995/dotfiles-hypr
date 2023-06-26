@@ -1,0 +1,12 @@
+zsh
+zsh-completions
+curl
+zathura
+waybar
+hyprland
+rofi-lbonn-wayland-git
+neovim
+neofetch
+kitty
+hyprpaper
+dunst

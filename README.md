@@ -12,11 +12,10 @@
 
 ## Installation/Uninstall
 
-1. Run stow.sh
+1. Run the requisite .sh file
 
 
 
 ## Original
-
 
 Original repo and work done by [m4xshen](https://github.com/m4xshen/dotfiles).
