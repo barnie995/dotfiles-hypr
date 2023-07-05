@@ -1,15 +1,16 @@
 #!/usr/bin/env bash
 
-stow -t ~/.local/share -D fonts
-stow -t ~/.local/share -D icons
-stow -t ~/.local -D bin
-stow -t ~/.config -D waybar
-stow -t ~/.config -D hypr
-stow -t ~/.config -D rofi
-stow -t ~/.config -D kitty
-stow -t ~/.config -D nvim
-stow -t ~/.config -D neofetch
-stow -t ~/.config -D zathura
-stow -t ~/.config -D dunst
-stow -t ~ -D zsh
-stow -t ~/Pictures -D wallpaper
+stow -D fonts
+stow -D icons
+stow -D bin
+stow -D waybar
+stow -D hypr
+stow -D rofi
+stow -D kitty
+stow -D nvim
+stow -D neofetch
+stow -D zathura
+stow -D dunst
+stow -D zsh
+stow -D wallpaper
+stow -D kanshi

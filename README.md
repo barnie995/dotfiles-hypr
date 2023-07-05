@@ -19,3 +19,8 @@
 ## Original
 
 Original repo and work done by [m4xshen](https://github.com/m4xshen/dotfiles).
+
+
+## Additional Tools
+
+Rofi Network Manager by P3rf and can be seen here: [rofi-network-manager](https://github.com/P3rf/rofi-network-manager)

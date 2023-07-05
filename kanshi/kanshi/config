@@ -1,0 +1,9 @@
+profile {
+	output eDP-1 enable mode 3840x2160 scale 1.5
+}
+
+profile {
+	output eDP-1 disable
+	output DP-1 enable mode 5120x1440
+}
+
